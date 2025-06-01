@@ -12,7 +12,6 @@ The dataset used in this project is a synthetic auto insurance claims dataset, p
 
 
 **Categorical variables**
-
     - **Policy_state**: refers to the U.S. state in which the insurance policy was issued or registered.
     - **Policy_csl**: Combined Single Limit is the maximum amount an insurance company will pay for liability (bodily injury + property damage) per accident, regardless of how the money is split. Example: policy_csl = "250/500". This may refer to $250,000 per person and $500,000 per accident.
     - **insured_sex**: sex of the insured person.
@@ -34,7 +33,6 @@ The dataset used in this project is a synthetic auto insurance claims dataset, p
 
 
  **Numeric variables**  
-
     - **months_as_customer**: represents the number of months the person has been a customer of the insurance company.
     - **Age**: The variable age represents the age of the insured person.
     - **policy_number**: ID of policy.
