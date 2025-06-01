@@ -25,9 +25,9 @@ Categorical variables
 
     - insured_relationship: describes the relationship of the insured person to the primary policyholder.
 
-    - describes the nature or category of the insurance claim event.
+    - incident_type: describes the nature or category of the insurance claim event.
 
-    - specifies the kind of impact or collision that occurred during the incident.
+    - collision_type: specifies the kind of impact or collision that occurred during the incident.
 
     - incident_severity: represents the level of damage or seriousness associated with the insurance incident.
 
@@ -93,6 +93,8 @@ Datetime Variables:
 
     - incident_date: is the date when the insurance incident occurred
 
+
+Target Variable: fraud_reported (Y/N)
 
 
 
